@@ -28,7 +28,7 @@ class App extends Component {
         vansSelected: [],
         score: 0
       });
-      alert("That one was already chosen - try again!");
+      alert("Yuuuuppppp you already picked that one......try harder next time.");
 
       //Click on an unclicked card - score increments and cards are mixed
     } else {
@@ -45,7 +45,7 @@ class App extends Component {
         //When the last unclicked card is chosen, game has been won and the user is alerted.        
         () => {
           if (this.state.score === 12) {
-            alert("Well done!");
+            alert("Look at you!!! Nice Memory!!!");
             this.setState({
               vans: this.state.vans.sort(function (a, b) {
                 return 0.5 - Math.random();
