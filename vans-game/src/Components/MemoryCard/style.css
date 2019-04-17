@@ -1,0 +1,50 @@
+.card {
+    /* background: #fff;
+    border-radius: 2px; */
+    height: 310px;
+    margin: 1rem;
+    position: relative;
+    width: 310px;
+}
+img:hover{
+  background-color: yellow;
+
+}
+#card-border-wrap{
+  max-width: 350px;
+  padding: 2rem;
+  position: center;
+    background: linear-gradient( 30deg,red, orange, yellow, green, blue, indigo, violet);
+        padding: 3px;
+        box-shadow: 10px 10px 5px white;
+    
+  }
+
+/* .card > img-container{
+    height: 300px;
+    overflow: hidden;
+} */
+img{
+  padding: 2%;
+  height: 300px;
+  width: 300px;
+  
+}
+
+  
+  /* .img-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+  }
+  
+  .img-container > ul {
+    list-style-type: none;
+  }
+  
+  .img-container > ul > li {
+    margin-top: 18px;
+  } */
+  
+  
+  

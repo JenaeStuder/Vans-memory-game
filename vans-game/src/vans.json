@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "image": "zebravan.jpg",
+        "selected": false
+    },
+    {
+        "id": 2,
+        "image": "goldvans.jpg",
+        "selected": false
+    },
+    {
+        "id": 3,
+        "image": "disneyvans.jpg",
+        "selected": false
+    },
+    {
+        "id": 4,
+        "image": "ashleyvans.jpg",
+        "selected": false
+    },
+    {
+        "id": 5,
+        "image": "herovans.jpg",
+        "selected": false
+    },
+    {
+        "id": 6,
+        "image": "blackandwhitevans.jpg",
+        "selected": false
+    },
+    {
+        "id": 7,
+        "image": "floralvans.jpg",
+        "selected": false
+    },
+    {
+        "id": 8,
+        "image": "flamevans.jpg",
+        "selected": false
+    },
+    {
+        "id": 9,
+        "image": "rainbowvans.jpg",
+        "selected": false
+    },
+    {
+        "id": 10,
+        "image": "multicoloredcheckvan.jpg",
+        "selected": false
+    },
+    {
+        "id": 11,
+        "image": "yellowcheckvans.jpg",
+        "selected": false
+    },
+    {
+        "id": 12,
+        "image": "ombrevans.jpg",
+        "selected": false
+    },
+    {
+        "id": 13,
+        "image": "purplevans.jpg",
+        "selected": false
+    },
+    {
+        "id": 14,
+        "image": "rainbowcheckvan.jpg",
+        "selected": false
+    },
+    {
+        "id": 15,
+        "image": "tiedyevans.jpg",
+        "selected": false
+    }
+]
