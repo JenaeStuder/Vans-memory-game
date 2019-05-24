@@ -14,7 +14,7 @@
 ## Starting Game
 ![Vans Game image 2](/public/assets/vansgame2.png)
 
-## After a few clicks
+## Shuffle of image components and calculation of score after an image is clicked
 
 ![Vans Game image 3](/public/assets/vansgame1.png)
 
