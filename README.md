@@ -9,15 +9,15 @@
 ## The images state is updated with every click
 
 ## When you enter the app
-! [Vans Game](./src/images/vansgame.png)
+! [Vans Game](/public/assets/vansgame.png)
 
 ## After a click
-! [Vans Game image 2](./src/images/vansgame2.png)
+! [Vans Game image 2](/public/assets/vansgame2.png)
 
 ## After a few clicks
 
-! [Vans Game image 3](./src/images/vansgame3.png)
+! [Vans Game image 3](/public/assets/vansgame3.png)
 
 ## Short Clip of the App in action
 
-![Vans Game vidio](./src/images/recording.mov)
+![Vans Game vidio](/public/assets/recording.mov)
