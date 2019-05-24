@@ -44,7 +44,7 @@ class App extends Component {
         },
         //When the last unclicked card is chosen, game has been won and the user is alerted.        
         () => {
-          if (this.state.score === 12) {
+          if (this.state.score === 15) {
             alert("Look at you!!! Nice Memory!!!");
             this.setState({
               vans: this.state.vans.sort(function (a, b) {
