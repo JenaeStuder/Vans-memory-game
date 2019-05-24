@@ -11,13 +11,10 @@
 ## When you enter the app
 ![Vans Game](/public/assets/vansgame.png)
 
-## After a click
+## Starting Game
 ![Vans Game image 2](/public/assets/vansgame2.png)
 
 ## After a few clicks
 
-![Vans Game image 3](/public/assets/vansgame3.png)
+![Vans Game image 3](/public/assets/vansgame1.png)
 
-## Short Clip of the App in action
-
-![Vans Game video](/public/assets/recording.mov)
